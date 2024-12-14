@@ -1,1 +1,7 @@
-# The_effect_of_admixture_on_minor_allele_frequency_distribution_and_ancestry_consistency
+# The effect of admixture of minor allele frequency distribution and ancestry consistency
+
+This repository contains the report and code for the admixture populations project by Johnson Huang and Yujung Lin.
+
+## Abstract
+
+Human populations exhibit genetic diversity shaped by historical migrations, isolation, selection, and genetic drift. Admixed populations, formed through interpopulation interactions, retain signatures of ancestral groups within their genomes. This study investigates the effects of admixture on population genetic structures, focusing on linkage disequilibrium (LD), minor allele frequency (MAF) distributions, and ancestry composition. Using HapMap3 data from 11 populations, including five admixed and six non-admixed groups, we analyzed chromosome 1 data through PCA, local and global LD, MAF, ADMIXTURE, and LD decay evaluations. Results reveal that admixed populations exhibit faster LD decay due to increased recombination, intermediate MAF patterns, and a mix of ancestral components. Simulations highlight the influence of simplified models on LD measures, underscoring the importance of realistic assumptions. Comparisons with non-admixed populations, particularly African populations like YRI, demonstrate reduced LD levels and higher genetic variability due to diverse recombination histories. These findings emphasize the distinct genetic architectures of admixed and non-admixed populations, offering valuable insights into genetic diversity, admixture dynamics, and their implications for evolutionary, medical, and forensic research.
