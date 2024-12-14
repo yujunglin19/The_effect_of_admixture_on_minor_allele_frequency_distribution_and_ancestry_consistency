@@ -1,0 +1,7 @@
+genotypename: INPUT_GENO
+snpname: INPUT_SNP
+indivname: INPUT_IND
+outputformat: EIGENSTRAT
+genotypeoutname: OUTPUT_PED
+snpoutname: OUTPUT_MAP
+indivoutname: OUTPUT_PEDIND

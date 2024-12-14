@@ -1,0 +1,7 @@
+genotypename: INPUT_BED
+snpname: INPUT_BIM
+indivname: INPUT_FAM
+outputformat: EIGENSTRAT
+genotypeoutname: OUTPUT_GENO
+snpoutname: OUTPUT_SNP
+indivoutname: OUTPUT_IND
